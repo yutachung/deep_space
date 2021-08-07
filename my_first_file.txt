@@ -1,0 +1,5 @@
+cd
+git clone
+ls - lists items in current area
+mkdir - make directory
+pwd - shows pathway to get to current file
