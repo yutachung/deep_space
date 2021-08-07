@@ -3,3 +3,7 @@ git clone
 ls - lists items in current area
 mkdir - make directory
 pwd - shows pathway to get to current file
+git status
+git add-A
+git commit
+git push
